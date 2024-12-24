@@ -2,6 +2,7 @@
 import Worldmap from "../../assets/world-map.png";
 const WhereToBuy = () => {
   return (
+    <div id="Wheretobuy">
     <div data-aos="fade-up" className='container my-36'>
 <div className='grid grid-cols-1 sm:grid-cols-3 gap-8 place-items-center'>
 {/* text-content section*/}
@@ -18,6 +19,7 @@ const WhereToBuy = () => {
   <img src={Worldmap} alt="" className='w-full sm:w-[500px] mx-auto' />
 </div>
 </div>
+    </div>
     </div>
   )
 }

@@ -23,8 +23,7 @@ const AppBanner = () => {
       <p data-aos="fade-up"
       data-aos-delay="300"
       className="text-center sm:px-20">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, pariatur incidunt sed iure enim nesciunt corporis, quis cum perspiciatis quisquam adipisci dolore quod molestias nostrum dolorem vitae magnam placeat delectus!
-      </p>
+   Anda dapat mendownload aplikasi ini di Playstore maupun Appstore gratis tanpa dipungut biaya sepeser pun      </p>
       {/* images link */}
 <div className="flex justify-center items-center gap-4">
   <a href="#">

@@ -9,7 +9,7 @@ const Footer = () => {
         
         <div className="space-y-6">
           <h1 className="text-3xl font-bold">Jeruk Mint</h1>
-        <p className="text-sm max-w-[300px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae maxime vero veritatis dignissimos animi minima unde quaerat facilis fuga. Sunt magnam beatae in! Possimus, esse.
+        <p className="text-sm max-w-[300px]">Jus jeruk mint ini sangat cocok dinikmati di pagi hari sebagai sarapan atau minuman sore yang menyegarkan. Baik saat Anda sedang bersantai di rumah atau saat berkumpul dengan teman-teman, jus ini pasti akan mencuri perhatian.
         </p>
         </div>
       {/**Navlink Section */}
@@ -66,7 +66,7 @@ const Footer = () => {
       {/**social link section */}
       <div className="space-y-6">
         <h1 className="text-4xl font-bold">Follow Us</h1>
-      <div>
+      <div id="kontak">
         <p>+62-882-0030-41011</p>
         <p>Semarang,Jawa Tengah</p>
       </div>

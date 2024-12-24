@@ -13,7 +13,7 @@ const Hero = () => {
         <div className="container">
 <Navbar sidebar={sidebar} setSidebar={setSidebar} />
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center min-h-[650px]">
-<div>
+<div id="Hero">
   <div className="text-white mt-[100px] md:mt-0 p-4 space-y-4">
   <h1 data-aos="fade-up" className="text-3xl pl-6 md:pl-14">01________</h1>
   <h1 data-aos="fade-up" data-aos-delay="300" className="text-5xl font-bold uppercase text-shadow">Buah Yang Sehat</h1>

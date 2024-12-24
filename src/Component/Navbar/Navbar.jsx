@@ -15,13 +15,13 @@ const Navbar = ({ sidebar, setSidebar }) => {
           
           <ul className="lg:flex hidden space-x-4 text-xl">
             <li>
-              <a href="#">Home</a>
+              <a href="#Hero">Home</a>
             </li>
             <li>
-              <a href="#">Where to find</a>
+              <a href="#Wheretobuy">Where to find</a>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <a href="#kontak">Contact</a>
             </li>
           </ul>
 
