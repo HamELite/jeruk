@@ -20,7 +20,7 @@ const Footer = () => {
 <div>
 <ul className="space-y-2">
 <li>
-  <a href="#">Home</a>
+  <a href="#Hero">Home</a>
 </li>
 <li>
   <a href="#">Tentang</a>

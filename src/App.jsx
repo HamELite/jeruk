@@ -4,6 +4,7 @@ import Services from "./Component/Service/Services.jsx";
 import WhereToBuy from "./Component/Wherethebuy/WhereToBuy.jsx";
 import AppBanner from "./Component/AppBanner/AppBanner.jsx";
 import Footer from "./Component/Footer/Footer.jsx";
+import Product from "./Component/Service/Product.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -16,10 +17,12 @@ const App = () => {
     });
   }, []);
   return (
+    
     <main className="overflow-x-hidden">
       <Hero />
       <Services />
       <WhereToBuy />
+      <Product />
       <AppBanner />
       <Footer />
     </main>

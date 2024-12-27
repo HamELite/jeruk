@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 
@@ -21,7 +22,7 @@ const Navbar = ({ sidebar, setSidebar }) => {
               <a href="#Wheretobuy">Where to find</a>
             </li>
             <li>
-              <a href="#kontak">Contact</a>
+              <a href="#kontak">Contact</a>  
             </li>
           </ul>
 
